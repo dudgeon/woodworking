@@ -1,7 +1,7 @@
 ## Bill of Materials
 
-- Wood: 18mm Baltic Birch Ply
-- Casters: 4 x Cart-Smart Caster, Swivel with 2" Diameter Gray Rubber Wheel ([78155T31](https://www.mcmaster.com/#78155t31/=1bm5x0f))
-- Threaded Inserts: 16 x Brass Tapping Inserts for Hardwood, M6 x 1 mm Thread Size ([95631A125](https://www.mcmaster.com/#95631a125/=1bm5y3o))
-- Screws: 16 x Button Head Hex Drive Screws, Black-Oxide Alloy Steel, M6 x 1mm Thread, 14mm Long ([91239A319](https://www.mcmaster.com/#91239a319/=1bm5ys9))
-- Washers: 16 x Zinc-Plated Steel External-Tooth Lock Washer, for M6 Screw Size, 6.4 mm ID, 11 mm OD ([97985A560](https://www.mcmaster.com/#97985a560/=1bm5znq))
+- **Wood**: 18mm Baltic Birch Ply
+- **Casters**: 4 x Cart-Smart Caster, Swivel with 2" Diameter Gray Rubber Wheel ([78155T31](https://www.mcmaster.com/#78155t31/=1bm5x0f))
+- **Threaded Inserts**: 16 x Brass Tapping Inserts for Hardwood, M6 x 1 mm Thread Size ([95631A125](https://www.mcmaster.com/#95631a125/=1bm5y3o))
+- **Screws**: 16 x Button Head Hex Drive Screws, Black-Oxide Alloy Steel, M6 x 1mm Thread, 14mm Long ([91239A319](https://www.mcmaster.com/#91239a319/=1bm5ys9))
+- **Washers**: 16 x Zinc-Plated Steel External-Tooth Lock Washer, for M6 Screw Size, 6.4 mm ID, 11 mm OD ([97985A560](https://www.mcmaster.com/#97985a560/=1bm5znq))
