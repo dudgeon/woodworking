@@ -19,4 +19,4 @@ Very few deviations from Peter Parfit's design:
 
 ## Proposed changes
 
-- Reduce Box1_Ext_Width, Box1_Ext_Depth by 5-10 mm
+- Reduce Box1_Ext_Width, Box1_Ext_Depth by 5-10 mm (attempted in series 1)
