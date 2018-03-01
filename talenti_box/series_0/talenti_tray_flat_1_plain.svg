@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:shaper="http://www.shapertools.com/namespaces/shaper"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg749"
+   version="1.1"
+   viewBox="0 0 596.90001 444.50001"
+   height="17.5in"
+   width="23.5in">
+  <defs
+     id="defs743" />
+  <metadata
+     id="metadata746">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,147.50002)"
+     id="layer1">
+    <path
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke-width:10"
+       d="m 262.81441,249.67736 v -6.3246 h 30.5054 V 118.44402 h 6.3246 V -12.789308 h -6.3246 V -137.69804 h -30.5054 v -6.3246 h -36.83 v 6.3246 H 78.664406 v -6.3246 h -36.83 v 6.3246 h -30.5054 V -12.789308 H 5.0044057 V 118.44402 h 6.3246003 v 124.90874 h 30.5054 v 6.3246 h 36.83 v -6.3246 H 225.98441 v 6.3246 h 36.83"
+       shaper:cutDepth="0.0063246000000000005"
+       shaper:pathType="exterior"
+       id="path649" />
+    <path
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke-width:10"
+       d="m 322.34788,-106.76935 v 36.830014 l -6.32461,2e-5 -6.3246,-3e-5 v 8.26612 a 12.7,12.7 0 0 0 9.41298,12.26728 l 105.11332,28.16502 a 12.7,12.7 0 0 1 9.41298,12.2672624 V 16.415004 a 12.7,12.7 0 0 1 -9.41299,12.26727 l -105.11331,28.165 a 12.7,12.7 0 0 0 -9.41298,12.26729 l -2e-5,8.26611 h 6.32462 l 6.32458,-1e-5 v 36.829966 l -12.64921,3e-5 3e-5,36.82996 16.93334,3e-5 -10e-6,-6.3246 h 16.93335 v 6.3246 h 16.93334 l -1e-5,-63.914896 a 12.7,12.7 0 0 1 9.41297,-12.26729 l 82.77402,-22.17924 a 12.7,12.7 0 0 0 9.413,-12.26725 v -73.38262 a 12.7,12.7 0 0 0 -9.413,-12.26723 l -82.77398,-22.17926 a 12.7,12.7 0 0 1 -9.41298,-12.26725 l -6e-5,-63.914984 -16.93334,2e-5 4e-5,6.32459 H 326.632 v -6.32462 l -16.93336,2e-5 3e-5,36.83 12.64921,1e-5"
+       shaper:cutDepth="0.006324600000000018"
+       shaper:pathType="exterior"
+       id="path334" />
+    <path
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke-width:10"
+       d="m 522.24491,205.81763 10e-6,-8.26614 a 12.7,12.7 0 0 0 -9.41301,-12.26725 L 407.7186,157.11918 a 12.7,12.7 0 0 1 -9.413,-12.26724 v -25.38866 a 12.7,12.7 0 0 1 9.41301,-12.26726 L 512.83191,79.031 a 12.7,12.7 0 0 0 9.413,-12.26726 v -8.26613 h -6.32459 -6.32462 l 2e-5,-36.83 12.64919,-10e-6 v -36.82999 l -16.93333,-10e-6 v 6.32461 h -16.93333 l -2e-5,-6.32461 -16.93331,10e-6 -1e-5,63.91495 a 12.7,12.7 0 0 1 -9.413,12.26726 L 379.2579,83.19905 a 12.7,12.7 0 0 0 -9.41301,12.26726 l 10e-6,73.38259 a 12.7,12.7 0 0 0 9.413,12.26728 l 82.77399,22.17923 a 12.7,12.7 0 0 1 9.41301,12.26727 l 10e-6,63.91492 h 16.93334 v -6.3246 h 16.93333 l 1e-5,6.32463 h 16.93333 l -10e-6,-36.83003 H 509.5957 v -36.83 h 6.32462 l 6.32459,3e-5"
+       shaper:cutDepth="0.0063246000000000005"
+       shaper:pathType="exterior"
+       id="path349" />
+    <path
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke-width:10"
+       d="m 79.810728,244.55259 v 16.93333 h -6.3246 v 16.93334 h 6.3246 v 16.93333 H 460.86151 v -16.93333 h 6.3246 v -16.93334 h -6.3246 v -4.28413 -6.3246 -6.3246 H 335.95278 v 6.3246 6.3246 H 204.71944 v -6.3246 -6.3246 H 79.810728"
+       shaper:cutDepth="0.0063246000000000005"
+       shaper:pathType="exterior"
+       id="path717" />
+    <path
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke-width:10"
+       d="m 541.04277,158.78228 h -6.3246 v 124.90873 h 16.93333 v 6.3246 h 16.93334 v -6.3246 h 16.93333 V -97.359794 h -16.93333 v -6.324596 H 551.6515 v 6.324596 H 534.71817 V 27.548921 h 6.3246 6.3246 V 158.78227 l -6.3246,10e-6"
+       shaper:cutDepth="0.00632460000000002"
+       shaper:pathType="exterior"
+       id="path732" />
+  </g>
+</svg>
