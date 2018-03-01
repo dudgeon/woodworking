@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:shaper="http://www.shapertools.com/namespaces/shaper"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="23.5in"
+   height="11.25in"
+   viewBox="0 0 596.90001 285.75001"
+   version="1.1"
+   id="svg381"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="toolbox_inserts_flat_2.svg">
+  <defs
+     id="defs375" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1252.8571"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1680"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata378">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-11.249983)">
+    <g
+       id="g248"
+       transform="matrix(10,0,0,10,245.35598,90.829747)">
+      <path
+         id="path231"
+         transform="matrix(1,0,0,-1,8.06492,20.4)"
+         shaper:pathType="exterior"
+         shaper:cutDepth="0.00632460000000003"
+         d="M -8.06492,6.8 V 0.63246 H 0 V 0 h 18.77016 v 0.63246 h 8.06492 V 6.8 h -0.63246 v 6.8 h 0.63246 v 6.8 h -8.06492 v -3.1 a 2,2 0 0 0 -2,-2 L 2,15.3 a 2,2 0 0 0 -2,2 v 3.1 h -8.06492 v -6.8 h 0.63246 V 6.8 Z"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill:#000000" />
+      <path
+         id="path233"
+         transform="matrix(1,0,0,-1,8.06492,20.4)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0.00632460000000003"
+         d="m 19.40262,6.8 v 6.8 H 18.77016 V 6.8 Z"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke:#000000;stroke-width:2" />
+      <path
+         id="path235"
+         transform="matrix(1,0,0,-1,8.06492,20.4)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0.00632460000000003"
+         d="M -0.63246,13.6 V 6.8 H 0 v 6.8 z"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke:#000000;stroke-width:2" />
+    </g>
+    <g
+       id="g131"
+       transform="matrix(10,0,0,10,159.94425,16.671416)">
+      <path
+         id="path114"
+         transform="matrix(1,0,0,-1,8.06492,5.48377)"
+         shaper:pathType="exterior"
+         shaper:cutDepth="0.0063246000000000005"
+         d="M 18.77016,0 H 0 V -2.2495633 H -0.63246 V -3.8666667 H 0 V -6.11623 h -8.06492 v 3.8666667 h 0.63246 V 1.6171033 H -8.06492 V 5.48377 H 0 V 4.85131 h 18.77016 v 0.63246 h 8.06492 v -7.7333333 h -0.63246 v -1.6171034 h 0.63246 V -6.11623 h -8.06492 v 2.2495633 h 0.63246 v 1.6171034 h -0.63246 z"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill:#000000" />
+      <path
+         id="path116"
+         transform="matrix(1,0,0,-1,8.06492,5.48377)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0.0063246000000000005"
+         d="M 0,3.2342067 H -0.63246 V 1.6171033 H 0 Z"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke:#000000;stroke-width:2" />
+      <path
+         id="path118"
+         transform="matrix(1,0,0,-1,8.06492,5.48377)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0.0063246000000000005"
+         d="M 19.40262,3.2342067 H 18.77016 V 1.6171033 h 0.63246 z"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke:#000000;stroke-width:2" />
+    </g>
+    <g
+       id="g112"
+       transform="matrix(0,10,-10,0,235.5286,173.67181)">
+      <path
+         id="path98"
+         transform="matrix(1,0,0,-1,0.63246,20.4)"
+         shaper:pathType="exterior"
+         shaper:cutDepth="0.006324599999999982"
+         d="m 4.85131,10.2 v 9.56754 H 3.2342067 V 20.4 H 1.6171033 V 19.76754 H 0 V 13.6 H -0.63246 V 6.8 H 0 V 0 h 10.33508 v 6.8 h 0.63246 v 6.8 h -0.63246 v 6.16754 H 8.7179767 V 20.4 H 7.1008733 V 19.76754 H 5.48377 V 10.2 Z"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill:#000000" />
+      <path
+         id="path100"
+         transform="matrix(1,0,0,-1,0.63246,20.4)"
+         shaper:pathType="interior"
+         shaper:cutDepth="0.006324599999999982"
+         d="M 8.7179767,9.56754 V 10.2 H 7.1008733 V 9.56754 Z"
+         inkscape:connector-curvature="0"
+         style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke:#000000;stroke-width:2" />
+    </g>
+  </g>
+</svg>

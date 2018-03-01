@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:shaper="http://www.shapertools.com/namespaces/shaper"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg925"
+   version="1.1"
+   viewBox="0 0 285.75 285.75001"
+   height="11.25in"
+   width="11.25in">
+  <defs
+     id="defs919" />
+  <metadata
+     id="metadata922">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-11.249983)"
+     id="layer1">
+    <g
+       transform="matrix(0,-10,10,0,7.852581,254.85479)"
+       id="g313">
+      <path
+         style="vector-effect:non-scaling-stroke;fill:#000000"
+         d="m 10.33508,12.96754 v 6.8 H 7.1008733 V 20.4 H 3.2342067 V 19.76754 H 0 v -6.8 h -0.63246 v -6.8 H 0 V 0 h 10.33508 v 6.16754 h 0.63246 v 6.8 z"
+         shaper:cutDepth="0.0063246000000000005"
+         shaper:pathType="exterior"
+         transform="matrix(1,0,0,-1,0.63246,20.4)"
+         id="path299" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke:#000000;stroke-width:2"
+         d="m 2.68754,3.8 a 1,1 0 0 1 -1,-1 V 2.2666667 a 1,1 0 0 1 1,-1 h 4.96 a 1,1 0 0 1 1,1 V 2.8 a 1,1 0 0 1 -1,1 z"
+         shaper:cutDepth="0.0063246000000000005"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,0.63246,20.4)"
+         id="path301" />
+    </g>
+    <path
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke-width:10"
+       d="m 150.17718,131.44641 v -6.3246 h 68.00001 V 21.771003 h -68.00001 v -6.32459 H 82.177181 v 6.32459 H 20.501775 v 32.342071 h -6.3246 v 38.666671 h 6.3246 v 32.342065 h 61.675406 v 6.3246 z"
+       shaper:cutDepth="0.0063245999999999945"
+       shaper:pathType="exterior"
+       id="path272" />
+  </g>
+</svg>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:shaper="http://www.shapertools.com/namespaces/shaper"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 596.90001 285.75001"
+   height="11.25in"
+   width="23.5in">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-11.249983)"
+     id="layer1">
+    <g
+       transform="matrix(10,0,0,10,182.83351,228.69251)"
+       id="g229">
+      <path
+         style="vector-effect:non-scaling-stroke;fill:#000000"
+         d="M 0,-0.63246 V 0 H 6.25672 V 4.85131 H 0 V 5.48377 H -6.25672 V 4.85131 h -6.25672 V 0 h 6.25672 v -0.63246 z"
+         shaper:cutDepth="0.006324600000000036"
+         shaper:pathType="exterior"
+         transform="matrix(1,0,0,-1,12.51344,5.48377)"
+         id="path164" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke:#000000;stroke-width:2"
+         d="m 2.202688,1.6171033 a 0.3,0.3 0 1 0 0.6,0 0.3,0.3 0 1 0 -0.6,0 z"
+         shaper:cutDepth="0.006324600000000036"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,12.51344,5.48377)"
+         id="path166" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke:#000000;stroke-width:2"
+         d="m -1.551344,1.6171033 a 0.3,0.3 0 1 0 0.6,0 0.3,0.3 0 1 0 -0.6,0 z"
+         shaper:cutDepth="0.006324600000000036"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,12.51344,5.48377)"
+         id="path168" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke:#000000;stroke-width:2"
+         d="m -5.305376,1.6171033 a 0.3,0.3 0 1 0 0.6,0 0.3,0.3 0 1 0 -0.6,0 z"
+         shaper:cutDepth="0.006324600000000036"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,12.51344,5.48377)"
+         id="path170" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke:#000000;stroke-width:2"
+         d="m -9.059408,1.6171033 a 0.3,0.3 0 1 0 0.6,0 0.3,0.3 0 1 0 -0.6,0 z"
+         shaper:cutDepth="0.006324600000000036"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,12.51344,5.48377)"
+         id="path172" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke:#000000;stroke-width:2"
+         d="m -11.236424,1.6171033 a 0.6,0.6 0 1 0 1.2,0 0.6,0.6 0 1 0 -1.2,0 z"
+         shaper:cutDepth="0.006324600000000036"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,12.51344,5.48377)"
+         id="path174" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke:#000000;stroke-width:2"
+         d="m -7.482392,1.6171033 a 0.6,0.6 0 1 0 1.2,0 0.6,0.6 0 1 0 -1.2,0 z"
+         shaper:cutDepth="0.006324600000000036"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,12.51344,5.48377)"
+         id="path176" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke:#000000;stroke-width:2"
+         d="m -3.72836,1.6171033 a 0.6,0.6 0 1 0 1.2,0 0.6,0.6 0 1 0 -1.2,0 z"
+         shaper:cutDepth="0.006324600000000036"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,12.51344,5.48377)"
+         id="path178" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke:#000000;stroke-width:2"
+         d="m 0.025672,1.6171033 a 0.6,0.6 0 1 0 1.2,0 0.6,0.6 0 1 0 -1.2,0 z"
+         shaper:cutDepth="0.006324600000000036"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,12.51344,5.48377)"
+         id="path180" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke:#000000;stroke-width:2"
+         d="m 3.779704,1.6171033 a 0.6,0.6 0 1 0 1.2,0 0.6,0.6 0 1 0 -1.2,0 z"
+         shaper:cutDepth="0.006324600000000036"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,12.51344,5.48377)"
+         id="path182" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke:#000000;stroke-width:2"
+         d="m 1.902688,3.2342067 a 0.6,0.6 0 1 0 1.2,0 0.6,0.6 0 1 0 -1.2,0 z"
+         shaper:cutDepth="0.006324600000000036"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,12.51344,5.48377)"
+         id="path184" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke:#000000;stroke-width:2"
+         d="m -1.851344,3.2342067 a 0.6,0.6 0 1 0 1.2,0 0.6,0.6 0 1 0 -1.2,0 z"
+         shaper:cutDepth="0.006324600000000036"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,12.51344,5.48377)"
+         id="path186" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke:#000000;stroke-width:2"
+         d="m -5.605376,3.2342067 a 0.6,0.6 0 1 0 1.2,0 0.6,0.6 0 1 0 -1.2,0 z"
+         shaper:cutDepth="0.006324600000000036"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,12.51344,5.48377)"
+         id="path188" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke:#000000;stroke-width:2"
+         d="m -9.359408,3.2342067 a 0.6,0.6 0 1 0 1.2,0 0.6,0.6 0 1 0 -1.2,0 z"
+         shaper:cutDepth="0.006324600000000036"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,12.51344,5.48377)"
+         id="path190" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke:#000000;stroke-width:2"
+         d="m -10.936424,3.2342067 a 0.3,0.3 0 1 0 0.6,0 0.3,0.3 0 1 0 -0.6,0 z"
+         shaper:cutDepth="0.006324600000000036"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,12.51344,5.48377)"
+         id="path192" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke:#000000;stroke-width:2"
+         d="m -7.182392,3.2342067 a 0.3,0.3 0 1 0 0.6,0 0.3,0.3 0 1 0 -0.6,0 z"
+         shaper:cutDepth="0.006324600000000036"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,12.51344,5.48377)"
+         id="path194" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke:#000000;stroke-width:2"
+         d="m -3.42836,3.2342067 a 0.3,0.3 0 1 0 0.6,0 0.3,0.3 0 1 0 -0.6,0 z"
+         shaper:cutDepth="0.006324600000000036"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,12.51344,5.48377)"
+         id="path196" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke:#000000;stroke-width:2"
+         d="m 0.325672,3.2342067 a 0.3,0.3 0 1 0 0.6,0 0.3,0.3 0 1 0 -0.6,0 z"
+         shaper:cutDepth="0.006324600000000036"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,12.51344,5.48377)"
+         id="path198" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke:#000000;stroke-width:2"
+         d="m 4.079704,3.2342067 a 0.3,0.3 0 1 0 0.6,0 0.3,0.3 0 1 0 -0.6,0 z"
+         shaper:cutDepth="0.006324600000000036"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,12.51344,5.48377)"
+         id="path200" />
+    </g>
+    <g
+       transform="matrix(10,0,0,10,2.0148765,12.966647)"
+       id="g270">
+      <path
+         style="vector-effect:non-scaling-stroke;fill:#000000"
+         d="M 19.40262,20.4 H 0.63246 V 19.76754 H -7.43246 V 13.6 H -6.8 V 6.8 H -7.43246 V 0 H -6.8 v 2.08 a 2,2 0 0 0 2,2 H -2 a 2,2 0 0 0 2,-2 V 0 h 20.03508 v 2.08 a 2,2 0 0 0 2,2 h 2.8 a 2,2 0 0 0 2,-2 V 0 h 0.63246 v 6.8 h -0.63246 v 6.8 h 0.63246 v 6.16754 h -8.06492 z"
+         shaper:cutDepth="0.006324599999999978"
+         shaper:pathType="exterior"
+         transform="matrix(1,0,0,-1,7.43246,20.4)"
+         id="path250" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke:#000000;stroke-width:2"
+         d="M 0.63246,13.6 H 0 V 6.8 h 0.63246 z"
+         shaper:cutDepth="0.006324599999999978"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,7.43246,20.4)"
+         id="path252" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke:#000000;stroke-width:2"
+         d="m 19.40262,6.8 h 0.63246 v 6.8 h -0.63246 z"
+         shaper:cutDepth="0.006324599999999978"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,7.43246,20.4)"
+         id="path254" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke:#000000;stroke-width:2"
+         d="m 13.1459,9.88377 v 0.63246 H 6.88918 V 9.88377 Z"
+         shaper:cutDepth="0.006324599999999978"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,7.43246,20.4)"
+         id="path256" />
+    </g>
+    <g
+       transform="matrix(10,0,0,10,384.89821,132.92664)"
+       id="g329">
+      <path
+         style="vector-effect:non-scaling-stroke;fill:#000000"
+         d="M 0,0 V 3.8666667 H 0.63246 V 7.7333333 H 0 V 11.6 H 20.9 V 7.7333333 H 20.26754 V 3.8666667 H 20.9 V 0 Z"
+         shaper:cutDepth="0.0063246000000000005"
+         shaper:pathType="exterior"
+         transform="matrix(1,0,0,-1,0,11.6)"
+         id="path315" />
+      <path
+         style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke:#000000;stroke-width:2"
+         d="M 12.4,7.7333333 H 11.76754 V 3.8666667 H 12.4 Z"
+         shaper:cutDepth="0.0063246000000000005"
+         shaper:pathType="interior"
+         transform="matrix(1,0,0,-1,0,11.6)"
+         id="path317" />
+    </g>
+    <path
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke-width:10"
+       d="m 532.75198,129.72618 v -6.3246 h 61.6754 V 20.050776 h -61.6754 v -6.324601 h -68 v 6.324601 h -68 v 32.34206 h -6.3246 v 38.66667 h 6.3246 v 32.342074 h 68 v 6.3246 z"
+       shaper:cutDepth="0.006324599999999982"
+       shaper:pathType="exterior"
+       id="path364" />
+  </g>
+</svg>
